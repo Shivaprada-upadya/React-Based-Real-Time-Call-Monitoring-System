@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CallmonitoringApplication {
+public class CallMonitoringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CallmonitoringApplication.class, args);
+		SpringApplication.run(CallMonitoringApplication.class, args);
 	}
 
 }
